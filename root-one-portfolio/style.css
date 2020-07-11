@@ -20,14 +20,14 @@ html {
   justify-content: space-between;
 }
 .align-center {
-  align-items: space-evenly;
+  align-items: center;
 }
-.pagecenter {
+.page-header {
   background-color: darkslategray;
 }
 .nav-item {
   text-decoration: none;
 }
-.nav-item, .hover {
+.nav-item:hover {
   color:steelblue
 }
